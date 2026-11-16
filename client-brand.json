@@ -1,0 +1,5 @@
+{
+  "client_id": "https://godthesource.github.io/cimd-test/client-brand.json",
+  "client_name": "Place to Mingle Support",
+  "redirect_uris": ["https://godthesource.github.io/cimd-test/callback"]
+}

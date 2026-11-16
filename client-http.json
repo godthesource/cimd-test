@@ -1,0 +1,5 @@
+{
+  "client_id": "https://godthesource.github.io/cimd-test/client-http.json",
+  "client_name": "Http Redirect Test",
+  "redirect_uris": ["http://godthesource.github.io/cimd-test/callback"]
+}
