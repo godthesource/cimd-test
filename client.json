@@ -1,0 +1,10 @@
+{
+  "client_id": "https://stage.merkoi.com/cimd-test/client.json",
+  "client_name": "CIMD Test Connector",
+  "redirect_uris": ["https://stage.merkoi.com/cimd-test/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "logo_uri": "https://stage.merkoi.com/cimd-test/logo.png",
+  "client_uri": "https://stage.merkoi.com/cimd-test/"
+}
